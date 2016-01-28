@@ -1,0 +1,3 @@
+node_modules
+parsed_zone_files/*.json
+zone_files/*.txt

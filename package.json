@@ -1,0 +1,7 @@
+{
+  "name": "DnApp",
+  "version": "0.0.1",
+  "description": "A dns app",
+  "main": "app.js",
+  "author": "Brian Whicheloe & Hunter Martin"
+}
